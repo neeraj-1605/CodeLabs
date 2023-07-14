@@ -32,4 +32,4 @@ efficient data structures to enhance search performance.
 
 ## Authors
 
-- [Neeraj](https://github.com/neeraj-1605)
+- [Neeraj](https://www.linkedin.com/in/neeraj-verma-2b2b46244/)
