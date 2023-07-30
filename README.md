@@ -1,6 +1,6 @@
 # CodeLabs - A Search Engine Based on DSA Problems
 
-[Visit](http://codelabs.ap-south-1.elasticbeanstalk.com/)
+[Visit](http://codelabs.ap-southeast-2.elasticbeanstalk.com/)
 
 ## Description
 
